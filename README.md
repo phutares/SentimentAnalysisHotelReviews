@@ -5,4 +5,4 @@ This project have using many techniques of Machine Learning
 - Naive Bayes for prediction
 - Name Entity Recognition for extraction a category
 
-# Phutares Suwannarat
+** Phutares Suwannarat **
